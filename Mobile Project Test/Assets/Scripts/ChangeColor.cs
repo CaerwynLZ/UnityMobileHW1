@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class ChangeColor : MonoBehaviour
 {
-    public GameObject sphere;
+    public GameObject gameObject;
     public Renderer objectRenderer;
     public Color newObjectColor;
     private float randomChannelOne, randomChannelTwo, randomChannelThree;
